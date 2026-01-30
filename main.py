@@ -6,8 +6,8 @@ To-Do:
 3. Settings screen. ###
 4. Computer A.I. ###
 5. Changes to the ball movement. ###
-6. Possibly an intro scene.
-7. Do I think I can add animations??
+6. Possibly an intro scene. ###
+7. Do I think I can add animations?? ##
 """
 #Imports:
 import pygame
